@@ -23,3 +23,4 @@ jobs:
           plugin_habits: yes
           plugin_leetcode: yes
           plugin_leetcode_user: harshalbaniwal
+          plugin_leetcode_sections: solved, skills, recent
