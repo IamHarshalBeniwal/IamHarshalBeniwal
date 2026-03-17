@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## GitHub Metrics
 
 ![Metrics](./github-metrics.svg)
-![LeetCode Stats](https://leetcard.jacoblin.cool/HarshalBeniwal)
+![LeetCode Stats](https://leetcard.jacoblin.cool/harshalbaniwal)
