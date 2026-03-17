@@ -20,6 +20,7 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_ignored: "HTML, CSS, Robot Framework"
           plugin_languages_categories: programming
+          plugin_languages_sections: most-used
           plugin_lines: yes
           plugin_lines_history_limit: 2
           plugin_isocalendar: yes
