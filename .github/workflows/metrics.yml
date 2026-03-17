@@ -27,3 +27,6 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: harshalbaniwal
           plugin_leetcode_sections: solved, skills, recent
+          plugin_achievements: yes
+          plugin_notable: yes
+          plugin_followup: yes
